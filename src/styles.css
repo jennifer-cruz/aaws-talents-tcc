@@ -33,6 +33,16 @@ header {
     display: flex;
 }
 
+.text-h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: AmazonEmber;
+    font-size: 18px;
+   color: #e47911;
+    margin: 5px;
+}
+
 .header-info img {
     width: 80px;
     height: 50px;
@@ -341,5 +351,14 @@ p {
 .talentos {
     margin-left: 0;
     padding-top: 15px;
+}
+.text-h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: AmazonEmber;
+    font-size: 18px;
+   color: #e47911;
+    margin-left: 65px;
 }
 }
