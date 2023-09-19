@@ -11,6 +11,6 @@
 <td align="center"><a href="https://github.com/YuichiYH"><img style="border-radius: 50%;" src="https://github.com/YuichiYH.png" width="100px;" alt="Carlos Hashimoto"/><br /><sub><b>Carlos Hashimoto </b></sub></a><br/></td>
 <td align="center"><a href="https://github.com/videodegatinho"><img style="border-radius: 50%;" src="https://github.com/videodegatinho.png" width="100px;" alt="Emily Gonzaga"/><br /><sub><b>Emily Gonzaga </b></sub></a><br/></td> 
 <td align="center"><a href="https://github.com/jennifer-cruz"><img style="border-radius: 50%;" src="https://github.com/jennifer-cruz.png" width="100px;" alt="Jennifer Cruz"/><br /><sub><b>Jennifer Cruz</b></sub></a><br/></td> 
-<td align="center"><a href="https://www.linkedin.com/in/mois%C3%A9s-porta-46125b49"><img style="border-radius: 50%;" src="https://www.linkedin.com/in/mois%C3%A9s-porta-46125b49.png" width="100px;" alt="Moises Porta"/><br /><sub><b>Moises Porta</b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/MoisesPorta"><img style="border-radius: 50%;" src="https://github.com/MoisesPorta.png" width="100px;" alt="Moises Porta"/><br /><sub><b>Moises Porta</b></sub></a><br/></td> 
 <td align="center"><a href="https://github.com/wilsonjunior1307"><img style="border-radius: 50%;" src="https://github.com/wilsonjunior1307.png" width="100px;" alt="Wilson Júnior"/><br /><sub><b>Wilson Júnior</b></sub></a><br/></td>
 </table>
